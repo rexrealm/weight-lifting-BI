@@ -1,5 +1,6 @@
 # weight-lifting-BI
 Weight lifting performance tracking
+
 I have a simple Excel file that I want to use to track weight training progress. The file I have attached has a Worksheet labeled Data. That sheet shows the inputs for different lifts (i.e. Squat, Press, Deadlift, Power Clean, and Bench) done on a weekly basis over a period of weeks (eventually this would extend over many months).  The input cells are organized to capture the Weight, the numbers of Sets, and the number of Repetitions by date. There is also a column that shows the total volume, which is just a factor of the Weight X Sets X Reps. 
 
 There is a row highlighted in grey for each lift identified as "Sets Across" and the weight identified there is what I want to chart (See B15 - Deadlift, 135lbs). The other weights represent warm up sets and are not as important.  Most of the data in this file right now is just copied from the Week 1, Day 1 fields, but over time real data would be input across this Worksheet and ultimately I would like to be able to replicate this for many more weeks - I've just shown it for now at four weeks.  
